@@ -1,1 +1,3 @@
 Today's date is 2nd nov
+
+Learning about git and github

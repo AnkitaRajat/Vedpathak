@@ -1,3 +1,5 @@
 we are learning git today
 
-Today's date is31stoct
+Today's date is 27th oct
+
+Today's date is 31st oct
